@@ -1,0 +1,259 @@
+patient_id,name,age,gender,diagnosis,admission_date,discharge_date,ward
+P001,Patrick Sanchez,69.0,Male,Heart Failure,2025-08-27,2025-09-17,Maternity
+P002,Megan Mcclain,38.0,Male,Migraine,,2024-08-27,Emergency
+P152,Ashley Johnson,25.0,Female,Hypertension,2024-08-22,,Surgery
+P005,Jennifer Cole,81.0,Female,Appendicitis,,2025-10-03,General
+P006,Abigail Shaffer,75.0,Female,Stroke,,2024-12-08,General
+P007,Donald Lewis,76.0,Male,Migraine,2025-10-11,2025-10-12,Surgery
+P009,Dennis Williams,72.0,Female,Stroke,,2026-02-05,Emergency
+P011,Mark Mcclure,56.0,Female,Fracture,,2025-07-08,General
+P013,Victoria Wyatt,26.0,Female,Appendicitis,2024-10-11,2024-11-06,ICU
+P015,Henry Santiago,53.0,Female,Heart Failure,2025-01-25,2025-02-03,Surgery
+P016,Maria Lynch,19.0,Female,Asthma,,2025-11-08,ICU
+P017,Danielle Ford,21.0,Female,Diabetes,,2024-08-31,ICU
+P019,Amy Underwood,31.0,Male,Heart Failure,2026-02-01,,Surgery
+P020,Derek Clark,79.0,Female,Appendicitis,,2026-01-17,Maternity
+P021,Emily Rios,70.0,Female,Migraine,,2025-07-31,General
+P024,Kevin Cox,88.0,Male,Heart Failure,,2025-07-22,General
+P025,Ann Williams,25.0,Female,Pneumonia,,2024-08-04,General
+P026,Christopher Becker,25.0,Male,Pneumonia,,2024-08-05,General
+P027,James Ferrell,22.0,Female,COVID-19,2025-07-24,2025-08-21,ICU
+P029,Melanie Herrera,89.0,Female,Diabetes,,2025-10-18,General
+P030,Gina Carter,65.0,Male,COVID-19,,2024-11-22,Maternity
+P035,Tamara George,26.0,Male,Migraine,2025-12-13,,ICU
+P037,Cynthia Allen,69.0,Male,Fracture,,2026-02-15,Maternity
+P038,Angelica Tucker,40.0,Male,Fracture,,2025-07-24,Maternity
+P039,Kim Martinez,49.0,Male,Pneumonia,2024-06-10,,Surgery
+P040,Joshua Baker,83.0,Female,Stroke,,2025-09-24,Maternity
+P042,Christina Collins,79.0,Male,Hypertension,2025-11-25,,General
+P044,Austin Smith,20.0,Male,Asthma,2024-07-20,,Emergency
+P045,Daniel Jones,26.0,Female,Appendicitis,2025-06-21,,General
+P049,Richard Aguirre,69.0,Female,COVID-19,2025-07-08,2025-07-20,ICU
+P050,Matthew Gomez,20.0,Male,Appendicitis,,2024-09-29,General
+P051,Nicholas Nunez,73.0,Male,Hypertension,2025-03-02,2025-03-27,ICU
+P493,Edwin David,34.0,Female,Heart Failure,,2024-11-14,General
+P054,Donald Wright,61.0,Female,Asthma,2024-08-04,,Surgery
+P057,Sarah Martin,87.0,Female,Hypertension,2024-06-28,,General
+P058,Dr. Steven Martin,76.0,Female,Pneumonia,2025-04-29,,Surgery
+P062,Kimberly Adkins,57.0,Female,COVID-19,,2024-06-07,ICU
+P064,Tyler Miller,67.0,Male,Migraine,2025-06-03,,Emergency
+P065,Barry Hensley,24.0,Female,Migraine,2024-09-08,,General
+P067,Bradley Sandoval,65.0,Female,Appendicitis,2025-07-23,2025-08-12,Maternity
+P068,Taylor Harris,49.0,Male,COVID-19,2025-06-30,,General
+P069,Derek Anderson,36.0,Female,Pneumonia,,2025-11-19,Surgery
+P072,Daniel Baker,55.0,Female,Fracture,,2024-08-02,Emergency
+P073,Benjamin Sanchez,42.0,Male,Diabetes,2026-04-12,,ICU
+P074,Roy Warner,83.0,Female,Pneumonia,2024-11-24,,Maternity
+P075,Dr. Kendra Contreras,58.0,Female,Hypertension,2025-08-05,,Surgery
+P076,Matthew Mcmillan,50.0,Female,Appendicitis,2025-06-22,2025-07-17,Surgery
+P085,Brittany Anderson,54.0,Female,Hypertension,2025-01-29,2025-02-02,Maternity
+P086,Timothy Stanton,77.0,Male,Fracture,,2024-12-15,Maternity
+P087,Christine Wright,49.0,Male,Hypertension,,2024-06-06,Emergency
+P088,Justin Baxter,35.0,Male,Migraine,2024-07-06,2024-07-25,ICU
+P090,Rita Keith,49.0,Male,Asthma,2024-08-21,2024-08-23,ICU
+P091,Tim Patton,44.0,Female,Diabetes,2024-05-06,,ICU
+P092,Sharon Cochran,34.0,Female,Hypertension,,2025-03-06,General
+P094,Courtney Velasquez,59.0,Male,Migraine,,2024-05-24,Emergency
+P096,Corey Murphy,77.0,Female,COVID-19,2024-10-07,,General
+P097,Raymond Bell,53.0,Male,Fracture,,2026-03-15,General
+P098,William Herrera,25.0,Female,Pneumonia,2025-05-18,,Surgery
+P102,Steven Lee,59.0,Female,Asthma,2025-05-19,2025-06-09,Emergency
+P104,Teresa Mclaughlin,77.0,Female,Appendicitis,2025-06-09,2025-07-05,Surgery
+P105,Benjamin Beck,23.0,Male,Fracture,2024-09-17,,Emergency
+P106,Mary Martinez,72.0,Female,Fracture,2024-12-29,,Maternity
+P108,Kristen Lee,75.0,Male,Migraine,2025-02-23,,Maternity
+P109,Megan Orr,79.0,Male,Stroke,,2025-10-11,Surgery
+P111,Jeffrey Carpenter,51.0,Female,Asthma,2024-12-09,2025-01-05,General
+P112,Jeremy Lowe,18.0,Female,COVID-19,2025-09-07,2025-10-07,Maternity
+P114,Diane Beck,43.0,Female,Pneumonia,,2024-09-03,Maternity
+P115,Robert Potter,74.0,Male,Appendicitis,,2025-08-17,General
+P119,Kathleen Sanchez,40.0,Female,Migraine,,2025-11-19,Maternity
+P120,Stephanie Dalton,51.0,Female,Migraine,,2025-09-15,ICU
+P122,Amber Wright,21.0,Female,Heart Failure,2025-10-09,,ICU
+P123,Casey Marshall,49.0,Male,Fracture,2026-02-05,2026-02-16,Surgery
+P125,Stephanie Simmons,78.0,Male,Appendicitis,,2025-09-05,Surgery
+P126,Stephanie Manning,84.0,Male,Hypertension,,2026-03-24,ICU
+P127,Paul Larsen,60.0,Female,Diabetes,2025-04-21,2025-05-19,Maternity
+P128,Kelly Sims,52.0,Male,Hypertension,2024-11-18,,ICU
+P129,Micheal Young,25.0,Male,Migraine,2024-11-16,,ICU
+P130,Joshua Taylor,51.0,Male,Stroke,,2025-01-07,Surgery
+P131,Christian Lewis,75.0,Male,Diabetes,,2024-11-02,Maternity
+P132,Joshua Perry,46.0,Female,Fracture,2025-03-05,,General
+P137,Lindsey Walker,72.0,Male,COVID-19,2025-11-09,,General
+P139,Jennifer Martin,30.0,Male,Pneumonia,2025-09-18,2025-09-29,General
+P141,Justin Johnson,26.0,Male,Fracture,2026-03-22,,Emergency
+P143,Daniel Murphy,29.0,Male,Fracture,,2024-11-10,Emergency
+P144,Diana Bean,70.0,Male,Stroke,2025-11-29,,Maternity
+P145,Bradley Smith,70.0,Female,Migraine,2025-03-10,,ICU
+P148,Unknown,75.0,Female,Hypertension,2024-10-26,,Maternity
+P150,Pamela Jackson,26.0,Female,Migraine,,2025-05-13,ICU
+P151,Michelle Strickland,22.0,Male,Appendicitis,2025-08-02,,Emergency
+P153,Susan Brooks,53.0,Male,COVID-19,2024-12-15,,General
+P154,Kevin Rivas,62.0,Female,Fracture,,2025-11-03,Surgery
+P155,Raymond Jefferson,48.0,Male,Asthma,,2024-11-15,Emergency
+P158,Alexandria Fisher,89.0,Male,Stroke,2025-05-15,2025-06-13,General
+P160,Christian Thompson,42.0,Female,Hypertension,2026-01-21,,Maternity
+P161,Debra Morton,23.0,Female,Appendicitis,2025-05-27,,Maternity
+P162,Julie Petersen,53.0,Male,Pneumonia,2025-06-09,,Surgery
+P164,Jerry Christensen,31.0,Male,Hypertension,,2024-07-07,Maternity
+P165,Jamie Johnson,71.0,Female,Pneumonia,2025-07-04,,General
+P166,John Kelly,29.0,Female,Heart Failure,2026-02-07,,Surgery
+P168,Kellie Lee,53.0,Female,Heart Failure,2024-11-18,,ICU
+P169,Katherine Chang,77.0,Female,Appendicitis,2024-10-21,,General
+P463,Mr. Alexander Landry MD,35.0,Female,Appendicitis,2025-04-15,,General
+P171,Daniel Holt,50.0,Male,Fracture,,2024-05-07,Maternity
+P172,Jackie Tran,46.0,Male,Pneumonia,2024-12-11,,Maternity
+P174,Eric Hall,64.0,Male,Diabetes,,2025-11-04,ICU
+P175,Bryan Herrera,73.0,Female,Diabetes,2025-10-29,2025-11-28,Emergency
+P176,Cheryl Rodgers,22.0,Male,Heart Failure,2025-11-30,,General
+P177,Vanessa Warren,82.0,Female,Hypertension,2024-11-18,,Emergency
+P180,Melissa Martinez,18.0,Male,COVID-19,2024-05-29,,Surgery
+P181,Ashley Smith,86.0,Male,Appendicitis,,2026-02-26,Emergency
+P182,Jeremiah Lopez,70.0,Male,Appendicitis,2024-11-24,,Maternity
+P183,Scott Wilson,54.0,Female,Migraine,2024-05-27,,Emergency
+P184,Benjamin Soto,34.0,Male,Stroke,,2024-06-19,General
+P185,Robert Avery,68.0,Male,Fracture,2024-05-29,,General
+P187,Patricia James,51.0,Female,Asthma,2025-12-22,,Emergency
+P190,Christine Clark,64.0,Male,Appendicitis,2024-07-03,2024-07-14,Maternity
+P191,David Arnold,31.0,Female,Pneumonia,,2025-10-11,Surgery
+P192,Jerry Wheeler,55.0,Female,Diabetes,,2024-09-05,ICU
+P197,Charles Brown,73.0,Male,Migraine,,2026-03-31,General
+P198,Paul Carroll,86.0,Female,Asthma,,2026-01-16,Maternity
+P201,Stacy Navarro,21.0,Female,Stroke,2024-06-18,,Emergency
+P202,Brandon Hayden,84.0,Male,Diabetes,2025-07-30,,Maternity
+P204,Debra Williams,59.0,Male,Asthma,,2025-12-13,Maternity
+P208,Shannon Rivera,64.0,Male,Asthma,,2025-01-01,Emergency
+P479,Veronica Silva,78.0,Female,Diabetes,2024-12-30,2025-01-17,ICU
+P211,Jose Travis,69.0,Male,Heart Failure,2025-12-08,,ICU
+P213,Peter Garrett,43.0,Female,Heart Failure,2025-05-25,,Emergency
+P214,Derek Anderson,24.0,Male,COVID-19,2025-11-28,,Emergency
+P219,Timothy Carter,61.0,Male,Hypertension,,2026-02-18,Maternity
+P220,Ruben Baird,42.0,Female,Migraine,2025-10-17,,Emergency
+P222,Sherry Shields,25.0,Female,Hypertension,,2025-08-15,Surgery
+P223,Sarah Morgan,59.0,Male,Appendicitis,2024-11-17,,Surgery
+P224,Samantha Campbell,43.0,Female,Diabetes,2025-12-20,2025-12-30,Emergency
+P225,Lauren Keller,73.0,Male,Asthma,2024-12-05,2024-12-10,Maternity
+P227,Jamie Cantu,87.0,Female,COVID-19,2025-06-20,,Surgery
+P231,Marissa Hernandez,21.0,Male,Asthma,2025-09-14,,General
+P232,Vincent Rivera,68.0,Female,Stroke,2024-05-16,2024-06-08,ICU
+P233,Jessica Fox,25.0,Female,Pneumonia,,2024-07-29,Maternity
+P235,Richard Baker,85.0,Male,Fracture,2024-08-15,,General
+P236,Marie Christian,37.0,Male,Hypertension,2025-08-14,,ICU
+P244,Rebecca Jackson,66.0,Male,Diabetes,2025-03-03,,Maternity
+P246,Briana Murray,18.0,Unknown,Asthma,2025-05-08,,Surgery
+P247,Michael Nolan,81.0,Male,Heart Failure,2024-10-31,,Emergency
+P248,Megan Moore,53.0,Female,Pneumonia,2025-04-13,,Maternity
+P250,Joyce Turner,43.0,Female,Fracture,2025-03-12,2025-03-15,General
+P252,Wendy Phillips,55.0,Male,COVID-19,,2025-01-26,General
+P255,Tanner Mitchell DDS,56.0,Male,Asthma,2025-11-17,2025-12-01,Emergency
+P259,Jeremiah Riley,44.0,Male,Hypertension,2024-05-18,,Surgery
+P262,Susan Rivas,69.0,Female,Heart Failure,,2025-02-13,Maternity
+P263,Terry Coffey,46.0,Male,Fracture,2024-11-03,,Surgery
+P264,Gina Wilson,62.0,Female,Pneumonia,,2024-12-16,Emergency
+P267,Richard Smith,55.0,Female,Heart Failure,,2025-06-30,ICU
+P268,Jacob Curry,63.0,Male,Migraine,,2025-06-28,Maternity
+P270,Kaitlyn Harvey,77.0,Male,Fracture,,2024-07-29,Surgery
+P272,Susan Turner,48.0,Female,Stroke,,2025-08-28,Emergency
+P274,David Medina,28.0,Male,Hypertension,2025-05-05,,Maternity
+P277,Sandra Gilbert,57.0,Male,Appendicitis,2025-03-05,,General
+P279,David Cox,74.0,Male,Unknown,,2025-03-29,General
+P280,Steven Newman,52.0,Male,Fracture,2025-10-02,,General
+P281,Colton Martinez,55.0,Female,COVID-19,2024-06-03,2024-06-05,ICU
+P283,Alison Buchanan,76.0,Female,Pneumonia,2025-08-27,2025-09-01,General
+P284,Rachel Harris DVM,88.0,Female,Asthma,,2024-11-08,Maternity
+P285,Daniel Kane,50.0,Male,Asthma,2025-06-21,,ICU
+P288,Ashley Delacruz,66.0,Female,Asthma,,2024-11-22,Surgery
+P289,Richard Young,80.0,Male,Heart Failure,2024-07-28,,General
+P290,Derek Martinez,88.0,Male,COVID-19,,2024-12-28,Emergency
+P293,Amanda Logan,35.0,Male,Pneumonia,2024-10-06,2024-10-29,ICU
+P295,John Morales,55.0,Male,Fracture,2024-05-11,,General
+P297,Lee Jones,49.0,Female,Migraine,2026-03-16,,Emergency
+P298,Lauren Joseph,51.0,Female,Hypertension,2024-11-17,,Surgery
+P300,Ashley Pena,25.0,Male,Stroke,2024-07-03,,Emergency
+P301,Michelle Lewis,76.0,Male,Heart Failure,,2026-03-21,General
+P305,Ronald Davis,71.0,Male,COVID-19,,2025-04-25,ICU
+P310,Brian Romero,28.0,Female,Diabetes,,2025-08-05,Emergency
+P311,Courtney Rodriguez,29.0,Female,Appendicitis,2024-08-15,,Maternity
+P312,Ashley Ramirez,55.0,Female,Stroke,,2026-03-04,ICU
+P315,Sandra Adams,31.0,Male,Heart Failure,2025-08-03,,ICU
+P316,Phillip Dorsey,42.0,Male,Stroke,,2024-10-02,Emergency
+P317,Sergio Knight,21.0,Female,Migraine,2025-01-15,,Maternity
+P321,Sophia Moore,44.0,Male,Asthma,,2025-07-03,Emergency
+P322,Megan Nelson,57.0,Female,Stroke,2025-11-24,,Maternity
+P324,Ashley Jordan,79.0,Female,Diabetes,2024-10-01,,Surgery
+P326,James Greene,70.0,Female,Pneumonia,,2024-12-28,ICU
+P327,Tony Saunders,46.0,Male,Heart Failure,,2024-04-26,Emergency
+P328,Garrett Smith,53.0,Male,COVID-19,,2025-12-14,Emergency
+P407,Eric Sanders,39.0,Female,Heart Failure,2024-05-19,,Emergency
+P336,Dana Chapman,42.0,Male,Pneumonia,,2025-03-29,Emergency
+P338,Christopher Dixon,29.0,Male,Appendicitis,2024-10-06,2024-10-12,Surgery
+P341,David Thompson,64.0,Female,Heart Failure,,2024-11-06,Emergency
+P342,Mary Thompson,25.0,Male,Appendicitis,2024-08-14,,General
+P343,Julie Elliott,87.0,Female,Stroke,,2025-12-16,ICU
+P344,Thomas Cunningham,29.0,Male,Migraine,2025-07-11,,General
+P345,Mrs. Tricia Stewart,43.0,Male,Migraine,2025-08-23,,General
+P346,Jeremy Turner,40.0,Female,Appendicitis,2025-03-24,,ICU
+P347,Heather Jones,24.0,Female,Appendicitis,,2024-11-26,Unknown
+P348,Anthony Decker,65.0,Female,Diabetes,,2025-05-02,Emergency
+P351,Amanda Stout,77.0,Male,Diabetes,,2026-01-07,Emergency
+P353,Joanna Shepherd,72.0,Male,COVID-19,2024-08-12,,General
+P354,Miguel Wagner,21.0,Male,Asthma,2026-01-27,,General
+P355,Michael Ritter,30.0,Female,Hypertension,,2024-09-19,Maternity
+P356,Caitlin Watson,59.0,Female,Diabetes,2025-05-29,,Emergency
+P357,Raymond Shelton,59.0,Female,COVID-19,2024-11-23,2024-12-03,Maternity
+P365,Yolanda Gaines,85.0,Female,Appendicitis,2026-01-21,,General
+P367,Trevor Peterson,32.0,Male,Stroke,2025-01-24,2025-01-27,Surgery
+P369,Katie Fernandez,78.0,Male,Asthma,2026-02-02,,Emergency
+P371,Linda Moore,88.0,Female,Fracture,,2025-12-19,Emergency
+P374,Jeremy Mitchell,20.0,Female,Asthma,,2025-10-31,Maternity
+P376,Stephanie Lee,26.0,Male,Fracture,,2026-01-24,ICU
+P377,Victoria Murray,78.0,Male,Migraine,2025-09-26,,Emergency
+P378,Kathryn Barnes,67.0,Female,Hypertension,,2024-11-30,Emergency
+P379,Rebecca Taylor,49.0,Male,Asthma,,2024-09-20,Maternity
+P380,John Watson,85.0,Female,Appendicitis,2024-10-28,2024-10-31,ICU
+P383,Jeffrey Potts,59.0,Male,Heart Failure,2025-05-21,,General
+P387,Gabriela Thomas,65.0,Male,Appendicitis,,2026-02-01,Maternity
+P390,David Conley,57.0,Male,Hypertension,2026-03-22,2026-03-23,Emergency
+P393,Lisa Brown,62.0,Male,Appendicitis,2025-03-09,2025-03-28,ICU
+P397,Kelly Ward,49.0,Male,Appendicitis,,2025-10-12,ICU
+P400,Alan Kramer,34.0,Female,Diabetes,2025-02-01,,Surgery
+P403,Marvin Greer,80.0,Female,Appendicitis,,2025-07-12,Maternity
+P404,Michael Welch,39.0,Female,Fracture,2025-10-01,,Surgery
+P405,Mike Acevedo,85.0,Male,Hypertension,,2026-01-16,Surgery
+P409,Scott Williams,69.0,Male,COVID-19,2024-09-12,2024-09-26,Maternity
+P412,Kathleen Jimenez,63.0,Female,Fracture,2025-01-05,,General
+P413,Debra Miller,30.0,Male,COVID-19,,2026-04-14,Maternity
+P416,Lance Simmons,44.0,Male,Hypertension,2024-12-03,,Surgery
+P417,Jeremy Acosta,73.0,Female,Appendicitis,2025-10-05,,Maternity
+P420,Nicole Moore,18.0,Female,Asthma,2025-01-24,2025-01-27,ICU
+P421,Lawrence Harrington,78.0,Male,Hypertension,2024-05-11,,General
+P422,David Brewer,41.0,Female,Diabetes,2024-05-14,,Surgery
+P427,Mr. Justin Green III,26.0,Female,Stroke,,2024-09-13,Surgery
+P429,Chad Jones,19.0,Female,Heart Failure,2025-05-03,2025-05-27,Emergency
+P432,Joshua Vance,62.0,Male,Hypertension,2025-10-20,,Surgery
+P435,Cynthia Snyder,37.0,Male,Migraine,2024-09-20,,ICU
+P439,Evan Jones,63.0,Female,Diabetes,2024-06-13,,ICU
+P441,Laurie Saunders,78.0,Male,Asthma,,2025-12-22,General
+P444,Hannah Everett,79.0,Female,COVID-19,,2026-05-05,Emergency
+P445,Blake Gonzalez,21.0,Female,Migraine,2026-03-13,,ICU
+P447,Caroline David,31.0,Male,Diabetes,2024-06-28,,Surgery
+P449,Kristy Bryan,36.0,Male,Fracture,,2025-01-05,Maternity
+P450,Travis Wise,25.0,Male,COVID-19,,2024-05-23,Maternity
+P453,Karen Ballard,73.0,Male,Pneumonia,,2025-09-11,Surgery
+P458,Emma Owens,41.0,Female,Hypertension,,2025-05-24,Emergency
+P460,Jennifer Estes,83.0,Male,Diabetes,,2025-03-11,Surgery
+P461,Garrett Lane,23.0,Male,Migraine,2026-03-19,,Emergency
+P465,Sarah Chambers,61.0,Female,Diabetes,2025-05-06,2025-06-04,Maternity
+P466,Sarah Jordan,86.0,Female,Stroke,2024-11-25,,Surgery
+P468,Kelly Lee,19.0,Male,Asthma,2024-05-22,,General
+P470,William Becker,22.0,Male,Hypertension,2025-06-18,2025-07-14,Surgery
+P471,Brent Brooks,73.0,Female,COVID-19,2024-07-18,,Emergency
+P473,Kathryn Williams,27.0,Female,Stroke,2025-07-29,,General
+P474,Regina Stone,22.0,Female,Heart Failure,,2024-08-31,Emergency
+P477,George Clayton,54.0,Male,Hypertension,2026-01-31,,Surgery
+P483,Mark Harvey,68.0,Unknown,Migraine,,2025-05-23,Surgery
+P484,Roberto Allen,70.0,Female,Heart Failure,,2026-02-12,Emergency
+P487,Tami Salas,67.0,Male,Asthma,,2025-06-04,Surgery
+P489,Matthew Fox,25.0,Female,Appendicitis,2025-06-27,,General
+P492,Deborah Washington,60.0,Female,Diabetes,,2025-09-15,ICU
+P497,William Cardenas,81.0,Female,Stroke,2025-06-13,,General

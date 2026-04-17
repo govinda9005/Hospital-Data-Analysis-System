@@ -1,0 +1,20 @@
+# Environments
+venv/
+env/
+.env
+
+# Cached execution files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Although data is synthetic in this project, it's best practice to ignore data dumps
+# data/cleaned/
+# reports/query_results/

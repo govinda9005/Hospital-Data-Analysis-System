@@ -1,0 +1,26 @@
+{
+    "dataset": "patients",
+    "original_rows": 500,
+    "cleaned_rows": 258,
+    "removed_rows": 242,
+    "actions": {
+        "duplicates_removed": 15,
+        "missing_values_handled": {
+            "numeric_filled_median": {
+                "age": 4
+            },
+            "categorical_filled": {
+                "name": 1,
+                "gender": 4,
+                "diagnosis": 1,
+                "admission_date": 2,
+                "discharge_date": 4,
+                "ward": 2
+            }
+        },
+        "dates_standardized": [
+            "admission_date",
+            "discharge_date"
+        ]
+    }
+}
