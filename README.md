@@ -8,12 +8,49 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## ✨ Features
+## 💻 Tech Stack
+- **Data Processing:** Python, Pandas, NumPy
+- **Database:** PostgreSQL, SQLAlchemy (Engine)
+- **Data Visualization:** Matplotlib, Seaborn
+- **Environment:** Jupyter Notebook, dotenv
+
+## 🔑 Key Features
 * **Automated Data Sanitization:** Algorithmic isolation of missing constraints (via median/flag imputation), 10x-outlier IQR mathematical capping, and explicit referential-integrity mapping.
 * **SQLAlchemy Database Architecture:** Secure environment integration leveraging PostgreSQL to build relational tables cleanly.
 * **Analytical Matrix Computations:** Eight precise, macro-level analytical SQL inquiries targeting stay-duration modeling, billing bottlenecks, and vulnerable demographics isolation.
 * **Publication-Quality Insights:** Configured multi-vector Seaborn & Matplotlib frameworks constructing dynamic visualization models directly to embedded standalone HTML files.
 * **Jupyter Narrative Workflow:** A highly structured, explainer-driven notebook engineered to visually decode operational inefficiencies for executives.
+
+## 🏗️ Architecture Highlights
+- **End-to-End Pipeline:** Full python automated ingestion, sanitization, and database integration loop.
+- **Relational Database Design:** Proper PostgreSQL schema definition utilizing SQLAlchemy.
+- **Cascade Deletes:** Foreign Keys natively configured for patient deletion consistency.
+- **Multi-step Sanitization:** Algorithmic isolation of missing constraints and mathematical outlier removal.
+- **Analytical Reporting:** Production-ready HTML standalone output dynamically generated.
+
+## 🗄️ Database Design
+
+### `patients`
+- `patient_id` (Primary Key)
+- `name`
+- `age`
+- `gender`
+- `diagnosis`
+- `admission_date`
+- `discharge_date`
+- `ward`
+
+### `billing`
+- `bill_id` (Primary Key)
+- `patient_id` (Foreign Key)
+- `treatment_cost`
+- `medication_cost`
+- `total_amount`
+- `payment_status`
+- `insurance_provider`
+
+**Relationship:**
+- One Patient → Many Billings (Cascade delete enabled)
 
 ## 📂 Project Structure
 
@@ -105,3 +142,6 @@ Execute the analytical pipeline linearly to ensure relational preservation:
 
 ## 📝 License
 This project operates under the **MIT License**.
+
+## 🧑‍💻 Author
+**Govinda Yadav**
